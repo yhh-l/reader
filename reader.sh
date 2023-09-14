@@ -142,7 +142,7 @@ getfileDir () {
         file_dir="/home/reader"
     fi
     orgin_file_dir=$file_dir
-    file_dir=${file_dir//\//\\\/}
+    file_dir="/home/reader"
 }
 
 getMultiUser () {

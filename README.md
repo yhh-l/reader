@@ -4,12 +4,6 @@
 
 在线体验 👉 [https://reader.htmake.com](https://reader.htmake.com)
 
-加入TG群(限时开放) 👉 [https://t.me/+pQ8HDlANPZ84ZWNl](https://t.me/+pQ8HDlANPZ84ZWNl)
-
-关注公众号，查看教程和书源👇
-
-![](imgs/mpcode.png)
-
 > 注意❗️
 >
 > Reader 完整源码仅开放到 v2.5.4，新版本当前仅开放部分开源源码，见 https://github.com/hectorqin/reader-legado.
